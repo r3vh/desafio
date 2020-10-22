@@ -1,0 +1,67 @@
+html {
+  font-family: montserrat, san-serif;
+  font-size: 62.5%; }
+  html body .text__nav {
+    font-size: 1.5em;
+    font-weight: 500;
+    font-family: montserrat, san-serif; }
+  html body .nav__indicator {
+    color: orange; }
+  html body .text__home {
+    font-weight: 800;
+    font-size: 1.5em;
+    color: black; }
+  html body .padding__nav {
+    padding: 3em; }
+  html body ul li a {
+    color: black; }
+  html body .main__padding {
+    padding-top: 15em;
+    padding-bottom: 15em; }
+  html body .main__img {
+    padding: 10px; }
+  html body div .video__style {
+    padding: 10px; }
+  html body div div .text__main {
+    font-size: 5em;
+    line-height: 1em;
+    padding: 20px; }
+  html body div div .text__p {
+    font-size: 2.5em; }
+  html body div div .text__p2 {
+    font-size: 2em; }
+  html body div div .text__white {
+    color: white; }
+  html body div div .text__services {
+    font-size: 2.5em;
+    background-color: black;
+    color: white;
+    display: inline; }
+  html body div div .img__padding {
+    padding-top: 2em; }
+  html body div div .hover__img:hover {
+    transition: 1s;
+    padding: 20px; }
+  html body div div .padding__div {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px; }
+  html body .section__1 {
+    background-color: black;
+    height: 80em;
+    padding-top: 2em; }
+  html body .section__2 {
+    height: 75em;
+    padding-top: 10em; }
+  html body .section__3 {
+    background-color: black;
+    height: 15em; }
+  html body .section__about {
+    background-color: black;
+    height: 1.5em; }
+  html body .section__about2 {
+    height: 20em; }
+  html body .section__portfolio {
+    background-color: black;
+    height: 50em; }
+  html body .section__portfolio2 {
+    padding-bottom: 3em; }
